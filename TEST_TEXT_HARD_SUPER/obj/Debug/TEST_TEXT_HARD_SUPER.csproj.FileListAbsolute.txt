@@ -1,0 +1,10 @@
+C:\Users\ruzickat.04\source\repos\TEST_TEXT_HARD_SUPER\TEST_TEXT_HARD_SUPER\bin\Debug\TEST_TEXT_HARD_SUPER.exe.config
+C:\Users\ruzickat.04\source\repos\TEST_TEXT_HARD_SUPER\TEST_TEXT_HARD_SUPER\bin\Debug\TEST_TEXT_HARD_SUPER.exe
+C:\Users\ruzickat.04\source\repos\TEST_TEXT_HARD_SUPER\TEST_TEXT_HARD_SUPER\bin\Debug\TEST_TEXT_HARD_SUPER.pdb
+C:\Users\ruzickat.04\source\repos\TEST_TEXT_HARD_SUPER\TEST_TEXT_HARD_SUPER\obj\Debug\TEST_TEXT_HARD_SUPER.csprojAssemblyReference.cache
+C:\Users\ruzickat.04\source\repos\TEST_TEXT_HARD_SUPER\TEST_TEXT_HARD_SUPER\obj\Debug\TEST_TEXT_HARD_SUPER.Form1.resources
+C:\Users\ruzickat.04\source\repos\TEST_TEXT_HARD_SUPER\TEST_TEXT_HARD_SUPER\obj\Debug\TEST_TEXT_HARD_SUPER.Properties.Resources.resources
+C:\Users\ruzickat.04\source\repos\TEST_TEXT_HARD_SUPER\TEST_TEXT_HARD_SUPER\obj\Debug\TEST_TEXT_HARD_SUPER.csproj.GenerateResource.cache
+C:\Users\ruzickat.04\source\repos\TEST_TEXT_HARD_SUPER\TEST_TEXT_HARD_SUPER\obj\Debug\TEST_TEXT_HARD_SUPER.csproj.CoreCompileInputs.cache
+C:\Users\ruzickat.04\source\repos\TEST_TEXT_HARD_SUPER\TEST_TEXT_HARD_SUPER\obj\Debug\TEST_TEXT_HARD_SUPER.exe
+C:\Users\ruzickat.04\source\repos\TEST_TEXT_HARD_SUPER\TEST_TEXT_HARD_SUPER\obj\Debug\TEST_TEXT_HARD_SUPER.pdb
